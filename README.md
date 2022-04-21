@@ -2,7 +2,7 @@
 #### I am passionate software developer
 [I am passionate software developer]
 
-Skills:  / REACT / JS / HTML / CSS / LARAVEL / DJANGO / LINUX
+Skills:  / REACT / JS / HTML / CSS / LARAVEL / DJANGO / LINUX / GIT / DOCKER
 
 - 🔭 I’m currently working on laravel 
 - 👯 I’m looking to collaborate on laravel projects 
